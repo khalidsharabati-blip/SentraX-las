@@ -1,1 +1,3 @@
-# SentraX-las
+# SentraX-lasDATABASE_URL=postgresql://postgres:password@localhost:5432/sentrax_erp
+NEXTAUTH_SECRET=your-secret-key
+NEXTAUTH_URL=http://localhost:3000
